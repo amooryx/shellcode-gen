@@ -1,8 +1,8 @@
-﻿# shellcode-gen
+# shellcode-gen
 
 > Red team security tool — authorized use only.
 
-`ash
+```bash
 python shellcode_gen.py --help
 ```
 
